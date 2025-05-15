@@ -1,0 +1,3 @@
+jwt/vendor/*
+jwt/composer.json
+jwt/composer.lock
